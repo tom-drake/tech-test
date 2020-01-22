@@ -1,0 +1,13 @@
+{
+  "name": "tech-test",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "",
+  "license": "UNLICENSED",
+  "devDependencies": {
+    "jest": "24.9.0"
+  }
+}
